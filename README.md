@@ -13,5 +13,3 @@
 * Ubuntu (Command Line Interface) (No Sudo)
 
 * Ubuntu (LXQT) With VNC (Sudo)
-
-# Installation Setup
