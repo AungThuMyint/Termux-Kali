@@ -2,8 +2,6 @@
 
 ### *__[Not Kali NetHunter]__*
 
-    Kali Linux CLI Mode Installation On Termux
+* Kali Linux CLI Mode Installation On Termux
     
-    Source File Collection
-
-* Kali (Command Line Interface)
+* Source File Collection
