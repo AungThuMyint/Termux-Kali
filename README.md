@@ -2,7 +2,7 @@
 
     Linux (CLI,GUI) Installation On Termux
     
-    Sources File Collection
+    Source File Collection
     
 # Support OS
 
