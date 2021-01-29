@@ -8,8 +8,8 @@
 
 # Installation Setup
 
-*   git clone *__https://github.com/AungThuMyint/LinuxInTermux.git__*
+*   *__git clone https://github.com/AungThuMyint/LinuxInTermux.git__*
 
-*   cd *__LinuxInTermux__*
+*   *__cd LinuxInTermux__*
 
-*   bash *__Kali.sh__*
+*   *__bash Kali.sh__*
