@@ -8,6 +8,6 @@
 
 # Installation Setup
 
-    git clone https://github.com/AungThuMyint/LinuxInTermux.git__
+*   git clone https://github.com/AungThuMyint/LinuxInTermux.git
 
-    cd LinuxInTermux
+*   cd LinuxInTermux
