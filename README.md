@@ -12,4 +12,6 @@
 
 *   *__cd LinuxInTermux__*
 
-*   *__bash Kali.sh__*
+*   *__bash Kali.sh [Installation]__*
+
+*   *__bash RemoveKali.sh [Removing]__*
