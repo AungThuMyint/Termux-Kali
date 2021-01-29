@@ -1,15 +1,11 @@
 # Termux Linux Files
 
-    Linux (CLI,GUI) Installation On Termux
-    
-    Source File Collection
-    
-# Support OS
+### *__[Not Kali NetHunter]__*
 
-* Kali (Command Line Interface) (No Sudo)
+* Kali Linux CLI Mode Installation On Termux
     
-* Kali (XFCE) With VNC (Sudo)
-    
-* Ubuntu (Command Line Interface) (No Sudo)
+* Source File Collection
 
-* Ubuntu (LXQT) With VNC (Sudo)
+# Installation Setup
+
+> __git clone https://github.com/AungThuMyint/LinuxInTermux.git__
