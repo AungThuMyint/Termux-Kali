@@ -8,8 +8,4 @@
 
 # Installation Setup
 
-*   *__git clone https://github.com/AungThuMyint/LinuxInTermux.git__*
-
-*   *__cd LinuxInTermux__*
-
 *   *__python3 LinuxInTermux.py__*
